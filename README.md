@@ -1,7 +1,7 @@
 # PingPongGame
 
 ## Aim:
-To develop a ping pong game using C# program in unity .
+To develop a ping pong game using C# program in unity.
 
 
 ## Algorithm:
